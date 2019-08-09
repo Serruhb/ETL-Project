@@ -22,7 +22,6 @@
 
 * Handle any duplicates.
 
-* Set index to the previously created primary key.
 
 ## Load
 
