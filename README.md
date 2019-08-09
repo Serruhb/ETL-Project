@@ -1,8 +1,14 @@
 
+![animals](https://user-images.githubusercontent.com/50157566/62753569-e0408780-ba31-11e9-8e3f-67d245dab5d1.png)
+# Austin Animal Center ETL Project
 
-# Austin animal centerProposal
+### Ever wonder what happens when an animal is picked up by Austin Animal Center and what happens afterwards?
 
-We will study the aspects of intake and outcomes of the animals.
+* Studied the aspects of intake and outcomes of the animals from the Austin Animal Center.
+
+* Information is from DataWorld at https://data.world/siyeh/austin-animal-center-live-data
+
+* Austin Animal Center Live Data by Brenda Griffith
 
 ## Extraction
  
@@ -14,7 +20,9 @@ We will study the aspects of intake and outcomes of the animals.
 
 * Rename columns to fit the tables created in the database.
 
-* Handle any duplicates.oSet index to the previously created primary key.
+* Handle any duplicates.
+
+* Set index to the previously created primary key.
 
 ## Load
 
